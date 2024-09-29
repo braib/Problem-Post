@@ -1,0 +1,27 @@
+.inner-box{
+    display: flex;
+  }
+  .rectangule {
+    background-color: red;
+    width: 80px;
+    height: 24px;
+    margin: 0 10px;
+  
+.left{
+      float: left;
+    }
+    .right{
+      float: right;
+    }
+    .left,
+    .right{
+      border-radius: 100%;
+      background-color: blue;
+      width: 30px;
+      height: 30px;
+      margin: 0;
+      margin-top: -3px;
+    }
+  }
+
+  /* unused css */
